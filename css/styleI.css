@@ -160,16 +160,6 @@ a {
     color: #000;
 }
 
-.sale-item a {
-    background-color: #d90429;
-    color: #fff;
-}
-
-.sale-item a:hover {
-    background-color: #b90425;
-    color: #fff;
-}
-
 .info-link img {
     margin-right: 4px; 
 }
